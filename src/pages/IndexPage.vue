@@ -47,6 +47,7 @@
                 border-bottom: 1px solid #ffffffe8;
                 width: max-content;
                 font-weight: 600;
+                font-size: 18px;
                 margin-top: 25px;
               "
             >
